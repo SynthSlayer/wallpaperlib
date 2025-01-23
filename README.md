@@ -1,2 +1,2 @@
 # wallpaperlib
-Collections of my wallpapers for easy setup and sync across devices
+Collections of my wallpapers for setup & sync across devices.
